@@ -26,110 +26,97 @@ These techniques aim to inspire users to experiment and discover unique prompt f
 
 To create fantastic prompts using words from the tables, consider combining elements from different categories like emotions, professions, and environments. For instance:
 
+要使用表格中的单词创建精彩的提示，请考虑结合不同类别的元素，例如情感、职业和环境。 例如：
+
 1. **[Emotion] + [Profession]**:
+   **[情感] + [职业]**:
    "A joyful artist creating in a sunlit studio" merges an emotion from the "Emotions and Expressions" table with a profession from the "Professions and Roles" table, setting a vivid scene.
+   “一位快乐的艺术家在阳光照射的工作室里创作”将“情感与表达”表中的情感与“职业与角色”表中的职业融为一体，营造出生动的场景。
 
    ![Figure01](0_01.png)
 
 2. **[Environment] + [Action]**:
+   **[环境] + [动作]**:
    "A serene forest where ancient trees whisper secrets" combines an environment from the "Physical Features and Characteristics" table with a creative action, painting an imaginative picture.
+   “古树低语的宁静森林”将“物理特征和特征”表中的环境与创意动作结合起来，描绘出一幅充满想象力的图画。
 
    ![Figure02](0_02.png)
 
 3. **[Material] + [Object]**:
+   **[材质] + [物体]**:
    "A shimmering dress of woven light, defying gravity" uses materials from the "Materials and Textures" table with an object, offering a futuristic concept.
+   “一件闪闪发光的编织光连衣裙，挑战重力”使用“材料和纹理”表中的材料和物体，提供了未来主义的概念。
 
    ![Figure03](0_03.png)
 
 4. **[Art Style/Movement] + [Character/Role] + [Environment]**:
+   **[美术风格/动作] + [角色/角色] + [环境]**：
    "A Rococo-inspired chef crafting delicacies in a bustling street market."
+   “一位洛可可风格的厨师在熙熙攘攘的街头市场上制作美味佳肴。”
 
    ![Figure04](0_04.png)
 
 5. **[Material/Texture] + [Object] + [Lighting Effect]**:
+   **[材质/纹理] + [物体] + [灯光效果]**:
    "A velvet gown under soft neon lights, casting enigmatic shadows."
+   “柔和的霓虹灯下的天鹅绒礼服，投射出神秘的阴影。”
 
    ![Figure05](0_05.png)
 
 6. **[Emotion/Expression] + [Action/Activity] + [Setting]**:
+   **[情绪/表情] + [动作/活动] + [设置]**:
    "A solitary explorer, jubilant upon discovering an untouched forest at dawn."
+   “一位孤独的探险家，在黎明时分发现了一片未受破坏的森林而欣喜若狂。”
 
    ![Figure06](0_06.png)
 
 7. **[Cultural Theme] + [Special Effect/Technical Term] + [Action/Activity]**:
+   **[文化主题] + [特效/专业术语] + [动作/活动]**：
    "A samurai battle scene enhanced with dramatic contrast and motion blur in a cherry blossom grove."
+   “樱花林中的武士战斗场景通过戏剧性的对比度和运动模糊而增强。”
 
    ![Figure07](0_07.png)
 
 8. **[Profession/Role] + [Material/Texture] + [Artistic Style/Movement]**:
+   **[职业/角色] + [材质/质感] + [艺术风格/动作]**：
    "A cybernetic warrior with a carbon fiber armor, portrayed in a Futurist style."
+   “一个穿着碳纤维盔甲的控制论战士，以未来主义风格描绘。”
 
    ![Figure08](0_08.png)
 
 9. **[Weather/Natural Phenomenon] + [Emotion/Expression] + [Composition Technique]**:
+   **[天气/自然现象] +[情感/表情] +[构图技巧]**：
    "A thunderstorm evoking a sense of despair, captured through a low-angle shot."
+   “通过低角度拍摄捕捉到的雷暴唤起了绝望感。”
 
    ![Figure09](0_09.png)
 
 10. **[Physical Feature] + [Action/Activity] + [Cultural/Historical Reference]**:
+    **[外貌特征] + [动作/活动] + [文化/历史参考]**:
     "Majestic mountains where ancient monks meditate, inspired by traditional Ukiyo-e art."
+    “受传统浮世绘艺术启发，古代僧人在雄伟的山脉中冥想。”
 
     ![Figure10](0_10.png)
 
 11. **[Sports/Physical Activity] + [Setting] + [Time of Day/Natural Light]**:
+    **[运动/体力活动] + [设置] + [时间/自然光]**：
     "A serene yoga session on a secluded beach at golden hour."
+    “黄金时段在僻静的海滩上享受宁静的瑜伽课程。"
 
     ![Figure11](0_11.png)
 
 12. **[Specialized Lighting Effect] + [Artistic Style/Movement] + [Object]**:
+    **[专业灯光效果] +[艺术风格/动作] +[物体]**：
     "A Gothic gloomy realism painting of an abandoned mansion, illuminated by crepuscular rays."
+    “一幅哥特式阴郁现实主义绘画，描绘的是一座废弃的宅邸，被黄昏的光线照亮。”
 
     ![Figure12](0_12.png)
 
 13. **[Animal/Character] + [Emotion/Expression] + [Unconventional Role/Activity]**:
+    **[动物/角色] + [情感/表情] + [非常规角色/活动]**:
     "An adventurous cat, curious and determined, embarking on a space mission."
+    “一只富有冒险精神的猫，好奇而坚定，开始执行太空任务。”
 
     ![Figure13](0_13.png)
-
-要使用表格中的单词创建精彩的提示，请考虑结合不同类别的元素，例如情感、职业和环境。 例如：
-
-1. **[情感] + [职业]**：
-   “一位快乐的艺术家在阳光照射的工作室里创作”将“情感与表达”表中的情感与“职业与角色”表中的职业融为一体，营造出生动的场景。
-
-2. **[环境] + [动作]**：
-   “古树低语的宁静森林”将“物理特征和特征”表中的环境与创意动作结合起来，描绘出一幅充满想象力的图画。
-
-3. **[材质] + [物体]**:
-   “一件闪闪发光的编织光连衣裙，挑战重力”使用“材料和纹理”表中的材料和物体，提供了未来主义的概念。
-
-4. **[美术风格/动作] + [角色/角色] + [环境]**：
-   “一位洛可可风格的厨师在熙熙攘攘的街头市场上制作美味佳肴。”
-
-5. **[材质/纹理] + [物体] + [灯光效果]**:
-   “柔和的霓虹灯下的天鹅绒礼服，投射出神秘的阴影。”
-
-6. **[情绪/表情] + [动作/活动] + [设置]**:
-   “一位孤独的探险家，在黎明时分发现了一片未受破坏的森林而欣喜若狂。”
-
-7. **[文化主题] + [特效/专业术语] + [动作/活动]**：
-   “樱花林中的武士战斗场景通过戏剧性的对比度和运动模糊而增强。”
-
-8. **[职业/角色] + [材质/质感] + [艺术风格/动作]**：
-   “一个穿着碳纤维盔甲的控制论战士，以未来主义风格描绘。”
-
-9. **[天气/自然现象] +[情感/表情] +[构图技巧]**：
-   “通过低角度拍摄捕捉到的雷暴唤起了绝望感。”
-
-10. **[外貌特征] + [动作/活动] + [文化/历史参考]**:
-    “受传统浮世绘艺术启发，古代僧人在雄伟的山脉中冥想。”
-
-11. **[运动/体力活动] + [设置] + [时间/自然光]**：
-    “黄金时段在僻静的海滩上享受宁静的瑜伽课程。”
-
-12. **[专业灯光效果] +[艺术风格/动作] +[物体]**：
-    “一幅哥特式阴郁现实主义绘画，描绘的是一座废弃的宅邸，被黄昏的光线照亮。”
-
-13. **[动物/角色] + [情感/表情] + [非常规角色/活动]**:
-    “一只富有冒险精神的猫，好奇而坚定，开始执行太空任务。”
 
 ---
