@@ -9,7 +9,7 @@
 | Moonlight         | 月光           |
 | Sun Light         | 阳光           |
 
-![Figure01](2_01.png)
+![Figure01](2_02.png)
 
 ### 2.2 Artificial Light | 人造光
 
