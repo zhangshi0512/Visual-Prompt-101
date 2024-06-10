@@ -19,13 +19,12 @@
 
 - 1.1 Art Movements and Styles | 艺术运动和风格
 - 1.2 Design Styles and Techniques | 设计风格和技巧
-- 1.3 Cultural and Regional Influences | 文化和地域影响
-- 1.4 Miscellaneous Concepts and Innovations | 其他概念和创新
-- 1.5 Individual Artists and Styles | 个人艺术家和风格
-- 1.6 Chinese Art Styles | 中国艺术风格
-- 1.7 European Art Styles | 欧洲艺术风格
-- 1.8 Modern Art Styles | 现代艺术风格
-- 1.9 Contemporary Art Styles | 当代艺术风格
+- 1.3 Chinese Art Styles | 中国艺术风格
+- 1.4 European Art Styles | 欧洲艺术风格
+- 1.5 Japan Art Styles | 日本艺术风格
+- 1.6 Modern Art Styles | 现代艺术风格
+- 1.7 Contemporary Art Styles | 当代艺术风格
+- 1.8 Miscellaneous Concepts and Innovations | 其他概念和创新
 
 #### **[2. Lighting and Atmosphere | 光影和氛围](#2-lighting-and-atmosphere--光影和氛围)**
 
